@@ -1,7 +1,7 @@
 ![Banner Profesional](https://via.placeholder.com/1200x250/0b1c2c/ffffff?text=Prof.+Naty+|+Contadur%C3%ADa+P%C3%BAblica,+Finanzas+y+Auditor%C3%ADa)
 
-# Prof. Natalia (Naty) 📊👩‍🏫
-**Contadora Pública | Docente Universitaria | Consultora Financiera**
+# Prof. Natividad (Naty) 📊👩‍🏫
+**Contadora Pública | Docente Educación media | 
 
 Bienvenido/a a mi repositorio profesional. Como especialista en Contabilidad y Finanzas, mi objetivo es crear un puente entre la teoría académica, la normativa financiera internacional y las herramientas tecnológicas modernas. Utilizo este espacio para compartir modelos financieros, material pedagógico y proyectos de análisis de datos aplicados a la contaduría.
 

@@ -1,4 +1,3 @@
-
 ![Banner Profesional](https://via.placeholder.com/1200x250/0b1c2c/ffffff?text=Prof.+Naty+|+Contadur%C3%ADa+P%C3%BAblica,+Finanzas+y+Auditor%C3%ADa)
 
 # Prof. Natalia (Naty) 📊👩‍🏫
@@ -48,7 +47,7 @@ A continuación, encontrarás algunos de mis repositorios más relevantes (Haz c
 | **[Dashboard-Tributario-PBI](#)** | Plantilla de Power BI para la visualización de obligaciones fiscales y control de vencimientos. | *Impuestos y Tecnología* |
 | **[Guia-Auditoria-Interna](#)** | Checklist y plantillas de papeles de trabajo para procesos de auditoría interna. | *Auditoría* |
 
-*(Nota: Los enlaces anteriores son demostrativos. Debes reemplazarlos con los enlaces reales a tus repositorios)*
+*(Nota: Los enlaces de esta tabla son demostrativos. Debes cambiar el "#" por el enlace de tus propios repositorios cuando los crees)*
 
 ---
 
@@ -65,18 +64,15 @@ A continuación, encontrarás algunos de mis repositorios más relevantes (Haz c
 Estaré encantada de conectar con profesionales del sector, estudiantes y empresas:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/tu-perfil-real-aqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:correo.profanaty@ejemplo.com" target="_blank">
     <img src="https://img.shields.io/badge/Correo_Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.tu-sitio-web.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
 <br>
 <p align="center">
   <i>"La transparencia financiera es el cimiento de la confianza empresarial."</i>
-</p>****
+</p>
